@@ -53,3 +53,4 @@ dkms.conf
 
 # Ignore all output folders
 output/
+*.txt
